@@ -1,6 +1,6 @@
 #Configuration of machine learning rigs
 
-rig list:
+## Rigs list:
 * [Laptop](#laptop)
 * [Desktop/Box](#desktopbox)
 * [AWS](#aws)
