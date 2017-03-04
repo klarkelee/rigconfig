@@ -22,10 +22,9 @@ rig list:
 *   `GPU`: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0
 
 ##3, [AWS](http://aws.amazon.com)
-```
-pip install awscli
-```
-configure aws key ... ...
+####`Step 1`
+    pip install awscli
+####`Step 2` [configure aws key] (http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
 
 ##4, [Google Cloud](http://cloud.google.com)
 
