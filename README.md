@@ -8,7 +8,7 @@ rig list:
 
 ###   Toolkits
 ---
-#### Step 1: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)(about 1.4GB)
+#### Step 1: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)(Version 4.3.0 about 1.4GB)
 #### Step 2:
 
 ##2, Desktop/Box: 
