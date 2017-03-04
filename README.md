@@ -1,20 +1,18 @@
-<h1 id="rigconfig">rigconfig</h1>
+configuration of my machine learning rig
 
-<p>configuration of my machine learning rig</p>
+rig list:
 
-<p>rig list:</p>
+1, Laptop: 
+Macbook Pro 13 MF839LL/A (Early 2015) A1502 <br>
+MacOS 10.12.x
 
-<p>1, Laptop: <br>
-Macbook Pro 13 MF839LL/A (Early 2015) A1502 /n <br>
-MacOS 10.12.x</p>
+2, Desktop/Box: 
+CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz 
+Mother Board: Gigabyte GA-Z97X-GAMING 5 LGA 1150 Z97 
+Memory: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200 
+GPU: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0
 
-<p>2, Desktop/Box: <br>
-CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz <br>
-Mother Board: Gigabyte GA-Z97X-GAMING 5 LGA 1150 Z97 <br>
-Memory: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200 <br>
-GPU: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0</p>
+3, AWS 
 
-<p>3, <a href="http://aws.amazon.com" target="_blank">AWS</a> <br>
-
-<p>4, Google Cloud <br>
+4, Google Cloud 
 
