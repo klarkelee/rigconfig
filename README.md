@@ -14,8 +14,7 @@ Mother Board: Gigabyte GA-Z97X-GAMING 5 LGA 1150 Z97 <br>
 Memory: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200 <br>
 GPU: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0</p>
 
-<p>3, <a href="http://aws.amazon.com">AWS</a> <br>
-<a href="http://aws.amazon.com">http://aws.amazon.com</a></p>
+<p>3, <a href="http://aws.amazon.com" target="_blank">AWS</a> <br>
 
 <p>4, Google Cloud <br>
-<a href="http://cloud.google.com">http://cloud.google.com</a></p>
+
