@@ -2,11 +2,11 @@ configuration of my machine learning rig
 
 rig list:
 
-1, Laptop: 
+1, Laptop: <br>
 Macbook Pro 13 MF839LL/A (Early 2015) A1502 <br>
 MacOS 10.12.x
 
-2, Desktop/Box: 
+2, Desktop/Box: <br>
 CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz <br>
 Mother Board: Gigabyte GA-Z97X-GAMING 5 LGA 1150 Z97 <br> 
 Memory: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200 <br>
