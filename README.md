@@ -16,9 +16,8 @@
 
   :see_no_evil:TextWrangler is my favoriate text edit for raw python file.
 
-#### `Step 1`: Set up [Git](https://help.github.com/articles/set-up-git/) (Version 2.10.1)
-#### `Step 2`: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)(Version 4.3.0 about 1.4GB)
-
+#### `Step 1`: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)(Version 4.3.0 about 1.4GB)
+#### `Step 2`: Set up [Git](https://help.github.com/articles/set-up-git/) (Version 2.10.1)
 
 
 ---
