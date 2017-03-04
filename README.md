@@ -20,6 +20,7 @@
 #### `Step 2`: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)(Version 4.3.0 about 1.4GB)
 
 
+
 ---
 ## Desktop/Box
 *   `CPU`: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz 
@@ -27,11 +28,13 @@
 *   `Memory`: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200 
 *   `GPU`: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0
 
+
 ---
 ## [AWS](http://aws.amazon.com)
 ####`Step 1`: execute in terminal (pre-request: Anaconda)
     pip install awscli
 ####`Step 2` [configure aws key] (http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
+
 
 ---
 ## [Google Cloud](http://cloud.google.com)
