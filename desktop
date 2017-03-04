@@ -3,3 +3,13 @@ CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
 Mother Board: Gigabyte GA-Z97X-GAMING 5 LGA 1150 Z97
 Memory: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200
 GPU: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0
+
+Software
+OS: Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-42-generic x86_64)
+gcc: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.2) 5.4.0 20160609
+Python: 2.7.12 :: Anaconda 4.2.0 (64-bit)
+IPython: https://ipython.org
+CUDA: 7.5
+Tensorflow
+Mxnet
+Caffe
