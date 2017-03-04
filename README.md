@@ -1,4 +1,4 @@
-configuration of my machine learning rig
+#configuration of my machine learning rig
 
 rig list:
 
