@@ -25,6 +25,7 @@ rig list:
 ```
 pip install awscli
 ```
+configure aws key ... ...
 
 ##4, [Google Cloud](http://cloud.google.com)
 
