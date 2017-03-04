@@ -15,5 +15,5 @@ GPU: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PC
 3, <a href="http://aws.amazon.com" target="_blank">AWS</a>
 
 
-4, Google Cloud 
+4, <a href="http://cloud.google.com" target="_blank">Google Cloud </a>
 
