@@ -8,7 +8,7 @@ rig list:
 
 ###   Toolkits
 ---
-#### (Opional)`Step 0`: Install [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)(Version 5.5.2) from iTune store.
+#### (Optional)`Step 0`: Install [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)(Version 5.5.2) from iTune store.
 
   :see_no_evil:TextWrangler is my favoriate text edit for raw python file.
    
