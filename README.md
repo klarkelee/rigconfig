@@ -8,8 +8,10 @@ rig list:
 
 ###   Toolkits
 ---
-#### Step 0: Install [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)(Version 5.5.2) from iTune store. 
-   TextWrangler is my favoriate text edit for raw python file.
+#### Step 0: Install [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)(Version 5.5.2) from iTune store.
+
+  !TextWrangler is my favoriate text edit for raw python file.
+   
 #### Step 1: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)(Version 4.3.0 about 1.4GB)
 #### Step 2:
 
