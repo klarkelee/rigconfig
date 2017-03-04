@@ -2,9 +2,14 @@
 
 rig list:
 
-##1, Laptop: 
+## 1, Laptop: 
 *   `Machine`: Macbook Pro 13 MF839LL/A (Early 2015) A1502 
 *   `OS`: MacOS 10.12.x
+
+### Step 1:
+Install [Anaconda](https://www.continuum.io/downloads)
+
+### Step 2:
 
 ##2, Desktop/Box: 
 *   `CPU`: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz 
