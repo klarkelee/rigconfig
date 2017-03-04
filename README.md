@@ -4,7 +4,7 @@ configuration of my machine learning rig
 rig list:
 
 1, Laptop:
-Macbook Pro 13 MF839LL/A (Early 2015) A1502
+Macbook Pro 13 MF839LL/A (Early 2015) A1502 /n
 MacOS 10.12.x
 
 2, Desktop/Box:
@@ -15,5 +15,6 @@ GPU: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PC
 
 3, AWS
 http://aws.amazon.com
+
 4, Google Cloud
 http://cloud.google.com
