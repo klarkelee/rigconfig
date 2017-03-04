@@ -1,12 +1,12 @@
 #Configuration of machine learning rigs
 
 rig list:
-* [Laptop](##Laptop)
-* [Desktop/Box](##Desktop/Box)
-* [AWS](##AWS)
-* [Google Cloud](##Google Cloud)
+* [Laptop](##laptop)
+* [Desktop/Box](##desktop/box)
+* [AWS](##aws)
+* [Google Cloud](##google-cloud)
 
-##Laptop: 
+## Laptop: 
 *   `Machine`: Macbook Pro 13 MF839LL/A (Early 2015) A1502 
 *   `OS`: MacOS 10.12.x
 
