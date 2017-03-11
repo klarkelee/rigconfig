@@ -39,8 +39,8 @@
 ## [Google Cloud](http://cloud.google.com)
 
 
-#Selective course I taken:
-*Entry level: [Machine Learning](https://www.coursera.org/learn/machine-learning)
-*Middle level: [Neural Networks](https://www.coursera.org/learn/neural-networks)
-*Get your hands dirty: [FastAI] (http://course.fast.ai)
+#Recommended course I have taken:
+* Entry level: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* Middle level: [Neural Networks](https://www.coursera.org/learn/neural-networks)
+* Get your hands dirty: [FastAI] (http://course.fast.ai)
 
