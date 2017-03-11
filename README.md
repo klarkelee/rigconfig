@@ -38,3 +38,8 @@
 ---
 ## [Google Cloud](http://cloud.google.com)
 
+
+#Selective course I taken:
+Entry level: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+[FastAI] (http://course.fast.ai)
+
