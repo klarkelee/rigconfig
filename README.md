@@ -27,6 +27,17 @@
 *   `Memory`: Corsair Vengeance Pro 16GB 2x8GB DDR3 2400MHz PC3 19200 
 *   `GPU`: EVGA GeForce GTX 960 4GB Super SC ACX 2.0+ with Back Plate GDDR5 128bit, PCI-E 3.0
 
+#### `Step n-1`: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)
+#### `Step n`: Set up [jupyter notebook](http://jupyter.org/) 
+    jupyter notebook --generate-config
+    vi .jupyter/jupyter_notebook_config.py
+    
+modify the ip to be visible to remote laptop:
+
+    c.NotebookApp.ip = '*'
+   
+
+
 
 ---
 ## [AWS](http://aws.amazon.com)
