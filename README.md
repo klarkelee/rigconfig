@@ -52,6 +52,7 @@ modify the ip to be visible to remote laptop:
 
 #Recommended course I have taken:
 * Entry level: [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* Middle level: [Neural Networks](https://www.coursera.org/learn/neural-networks)
+* Middle level: [CS231n/best tutorial for CNN](http://cs231n.stanford.edu)
+* Middle level: [Neural Networks](https://www.coursera.org/learn/neural-networks) (a little bit dry)
 * Get your hands dirty: [FastAI] (http://course.fast.ai)
 
