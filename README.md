@@ -1,4 +1,4 @@
-#Configuration of machine learning rigs
+# Configuration of machine learning rigs
 
 ## Rigs list:
 * [Laptop](#laptop)
@@ -41,16 +41,16 @@ modify the ip to be visible to remote laptop:
 
 ---
 ## [AWS](http://aws.amazon.com)
-####`Step 1`: execute in terminal (pre-request: Anaconda)
+#### `Step 1`: execute in terminal (pre-request: Anaconda)
     pip install awscli
-####`Step 2` [configure aws key] (http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
+#### `Step 2` [configure aws key] (http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
 
 
 ---
 ## [Google Cloud](http://cloud.google.com)
 
 
-#Recommended course I have taken:
+# Recommended course I have taken:
 * Entry level: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * Middle level: [CS231n/best tutorial for CNN](http://cs231n.stanford.edu)
 * Middle level: [Neural Networks](https://www.coursera.org/learn/neural-networks) (a little bit dry)
