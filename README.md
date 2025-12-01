@@ -37,7 +37,22 @@ modify the ip to be visible to remote laptop:
     c.NotebookApp.ip = '*'
    
 
+---
+## LLM Desktop/Legion T7
+*   `CPU`: Intel(R) Core(TM) i9-14900KF CPU @ 3.20GHz 
+*   `Mother Board`: Unknown
+*   `Memory`: CORSAIR VENGEANCE RGB DDR5 RAM 64GB (2x32GB) 6000MHz
+*   `GPU`: NVIDIA GeForce RTX 4080 Super 16GB
+*   `HD`: SAMSUNG 990 PRO SSD 4TB PCIe 4.0 M.2 2280
 
+#### `Step n-1`: Install [Anaconda](https://www.continuum.io/downloads) (choose Python 2.7 version)
+#### `Step n`: Set up [jupyter notebook](http://jupyter.org/) 
+    jupyter notebook --generate-config
+    vi .jupyter/jupyter_notebook_config.py
+    
+modify the ip to be visible to remote laptop:
+
+    c.NotebookApp.ip = '*'
 
 ---
 ## [AWS](http://aws.amazon.com)
